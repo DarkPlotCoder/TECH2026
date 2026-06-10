@@ -396,3 +396,8 @@ AutoShield AI is not just a dashboard.
 It is an AI-powered Automotive Operating System that predicts disruptions, automates decisions, optimizes manufacturing, and enables resilient, intelligent, and sustainable automotive operations.
 
 **From Reactive Operations to Predictive Intelligence.**
+
+---
+
+# Link
+https://www.genspark.ai/api/code_sandbox/preview_url?sandbox_id=i02ihzje3547dqrec95jo-de59bda9&port=3000&type=novita
